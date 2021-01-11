@@ -17,7 +17,7 @@ Through this course, I hope to utilize Python to work meaningfully with data. My
   * Crime
   * Demographics
   * Resource Allocation
+  
  * Scope
   * United States
   * California
-  * Other States
