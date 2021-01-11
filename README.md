@@ -2,7 +2,7 @@
 
 ## About Me
 My name is Tiffany Feng and I am a fourth-year undergraduate Statistics major with a Digital Humanities at UCLA.
-![image of Tiffany Feng](imgur.com/a/m427O52)
+![image of Tiffany Feng](https://i.imgur.com/477227x.jpeg)
 
 ## Introduction
 This repository consists of materials from the DIGITAL HUMANITIES 140: Coding for Humanities course taught by Professor Yoh Kawano at UCLA. This course focuses on Python and how to use it to work with data in the humanities and social sciences.
