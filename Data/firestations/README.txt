@@ -1,0 +1,1 @@
+The administrative organization of the Los Angeles County Fire Department
