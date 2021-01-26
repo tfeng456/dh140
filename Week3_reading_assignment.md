@@ -1,4 +1,5 @@
 # Video: Rachel Levine on using Open Street Maps for humanitarian causes
+Link to the video: https://www.youtube.com/watch?v=5zastnYViHU&feature=youtu.be
 
 ## Thoughts
 
