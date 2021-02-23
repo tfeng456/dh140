@@ -3,7 +3,8 @@
 Welcome to my DH140 repository!
 
 ## About Me
-My name is Tiffany Feng and I am a fourth-year undergraduate Statistics major with a Digital Humanities at UCLA.
+My name is Tiffany Feng and I am a fourth-year undergraduate Statistics major with a Digital Humanities minor at UCLA.
+
 ![image of Tiffany Feng](https://i.imgur.com/pfBwZWz.jpeg)
 
 ## Introduction
